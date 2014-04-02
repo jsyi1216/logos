@@ -5,7 +5,7 @@ Ext.onReady(function() {
     'vel lacus. In pellentesque nisl non sem. Suspendisse nunc sem, pretium eget, cursus a, fringilla vel, urna.<br/><br/>'+
     'Aliquam commodo ullamcorper erat. Nullam vel justo in neque porttitor laoreet. Aenean lacus dui, consequat eu, adipiscing '+
     'eget, nonummy non, nisi. Morbi nunc est, dignissim non, ornare sed, luctus eu, massa. Vivamus eget quam. Vivamus tincidunt '+
-    'diam nec urna. Curabitur velit. Lorem ipsum dolor sit amet.</p>';
+    'diam nec urna. Curabitur velit. Lorem ipsum dolor sit amet.</p> hello test!!';
     
     var configs = [{
         title: 'Basic Panel',
